@@ -99,11 +99,13 @@ URL:
 http://longevity.ddns.net:8000/auth/users/
 ```
 Request body:
+```
 {
     "username": "string",
     "password": "string",
     "email": "string"
 }
+```
 
 ### Get JWT token
 Type of request: POST.
