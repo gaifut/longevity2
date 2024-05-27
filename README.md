@@ -17,7 +17,8 @@
 - Linux
 
 ## Description and comments.
-The website is available at 
+The website is available at https://longevity.ddns.net/
+While there is no frontpage available, API endpoints are accessible and more information can be found in [API documentation.](#API-documentation)
 
 ## API documentation.
 
